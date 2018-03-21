@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLSUnitTestProject.deps.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLSUnitTestProject.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLSUnitTestProject.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLSUnitTestProject.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLSUnitTestProject.pdb
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLS.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\bin\Debug\netcoreapp2.0\RPSLS.pdb
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLSUnitTestProject\obj\Debug\netcoreapp2.0\RPSLSUnitTestProject.pdb

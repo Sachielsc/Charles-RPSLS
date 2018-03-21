@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\bin\Debug\netcoreapp2.0\RPSLS.deps.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\bin\Debug\netcoreapp2.0\RPSLS.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\bin\Debug\netcoreapp2.0\RPSLS.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\bin\Debug\netcoreapp2.0\RPSLS.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\bin\Debug\netcoreapp2.0\RPSLS.pdb
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.dll
+C:\Users\Admin\Desktop\repos\RockPaperScissorsLizardSpock\RPSLS\obj\Debug\netcoreapp2.0\RPSLS.pdb
